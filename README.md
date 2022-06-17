@@ -54,7 +54,7 @@
 ### Deploy on Heroku
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/JNS-BOTS-V2/JNS_FC_BOT">
+  <a href="https://heroku.com/deploy?template=https://github.com/GYPZYTECHS/ALPHA_X">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
   
