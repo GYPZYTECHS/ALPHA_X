@@ -4,9 +4,9 @@ then
   git clone https://github.com/GYPZYTECHS/ALPHA_X
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /ALPHA_X
+  git clone $UPSTREAM_REPO https://github.com/GYPZYTECHS/ALPHA_X
 fi
-cd /ALPHA_X
+cd https://github.com/GYPZYTECHS/ALPHA_X
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
